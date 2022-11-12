@@ -7,7 +7,7 @@ resource "aws_s3_bucket" "bucket" {
   }
 }
 
-resource "aws_s3_bucket" "bucket" {
+resource "aws_s3_bucket" "mybucket" {
   bucket = "demowithtemi-buckett789"
 
   tags = {
