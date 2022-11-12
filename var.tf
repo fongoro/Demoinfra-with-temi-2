@@ -2,11 +2,6 @@ variable REGION {
     default = "us-west-2"
 }
 
-variable "aws_vpc" {
-    
-  
-}
-
 variable ZONE1 {
     default = "us-west-2a"
 }
